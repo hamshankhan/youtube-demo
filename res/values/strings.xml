@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="hello">Welcome to Pothole Mapper, an automatic pothole detection app</string>
+<string name="app_name">Pothole Mapper</string>
+<string name="xacc">Acceleration along x axis</string>
+<string name="yacc">Acceleration along y axis</string>
+<string name="zacc">Acceleration along z axis</string>
+<string name="msg">POTHOLE!!!</string>
+<string name="savemsg">Location saved successfully</string>
+</resources>
