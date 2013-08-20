@@ -17,7 +17,6 @@ private SensorManager sensorManager;
 private TextView x_val;
 private TextView y_val;
 private TextView z_val;
-//private TextView outView;
 private int sensor = SensorManager.SENSOR_ACCELEROMETER; 
 
 /** Called when the activity is first created. */ 
