@@ -43,6 +43,7 @@ protected void onResume() {
 	} 
 
 /** Stop the updates when Activity is paused */ 
+//test commit
 @Override 
 //what happens when the sensors are paused 
 protected void onPause() { 
